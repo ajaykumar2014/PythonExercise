@@ -1,0 +1,6 @@
+select
+    cu.country,
+    cu.domains,
+    cu."index"
+from
+    cal_uni cu;
